@@ -1,1 +1,15 @@
 Este es mi primer ejemplo formal.
+
+Es la canción que escribíamos ayer.
+
+Ha pasado tanto tiempo
+que no sé donde empezar,
+el camino ha sido largo.
+¿Qué tan lejos he de estar?
+
+Que los tiempos han cambiado,
+que mi vida no es igual,
+que no sé si doy mis pasos
+adelante o hacia atrás
+
+ // Puente musical //
